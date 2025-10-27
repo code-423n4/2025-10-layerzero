@@ -61,9 +61,9 @@ The following file-paths and all files within them are in-scope:
 | -- |
 | [layerzero/src/endpoint/\*\*.\*\*](https://github.com/code-423n4/2025-10-layerzero/tree/main/layerzero/src/endpoint) |
 | [layerzero/src/message_lib/uln_302/\*\*.\*\*](https://github.com/code-423n4/2025-10-layerzero/tree/main/layerzero/src/message_lib/uln_302) |
-| [layerzero/src/workers/dvn/\*\*.\*\*](https://github.com/code-423n4/2025-10-layerzero/tree/scout-changes/layerzero/src/workers/dvn) |
-| [libs/multisig/src/\*\*.\*\*](https://github.com/code-423n4/2025-10-layerzero/tree/scout-changes/libs/multisig/src) |
-| [libs/enumerable_set/src/\*\*.\*\*](https://github.com/code-423n4/2025-10-layerzero/tree/scout-changes/libs/enumerable_set/src) |
+| [layerzero/src/workers/dvn/\*\*.\*\*](https://github.com/code-423n4/2025-10-layerzero/tree/main/layerzero/src/workers/dvn) |
+| [libs/multisig/src/\*\*.\*\*](https://github.com/code-423n4/2025-10-layerzero/tree/main/libs/multisig/src) |
+| [libs/enumerable_set/src/\*\*.\*\*](https://github.com/code-423n4/2025-10-layerzero/tree/main/libs/enumerable_set/src) |
 
 ### Files out of scope
 
