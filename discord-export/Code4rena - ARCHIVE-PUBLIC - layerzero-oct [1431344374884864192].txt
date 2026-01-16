@@ -1,0 +1,85 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-PUBLIC / layerzero-oct
+==============================================================
+
+[10/24/2025 18:17] thebrittfactor
+👋 Hello and welcome to the $100,000 in USDC **LayerZero: Starknet Endpoint** audit channel!
+
+📆 Audit opens Friday, 24 October 2025 20:00 (20:00 UTC) and runs through Friday, 07 November 2025 20:00 (20:00 UTC) (14 days).
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this audit, consider enabling notifications for this channel. 🐺 ⏰
+
+Join the audit: https://code4rena.com/audits/2025-10-layerzero-starknet-endpoint
+
+{Reactions}
+c4ship (6) 
+
+[10/24/2025 20:02] thebrittfactor
+🔎 **Got audit-related questions? Here's your roadmap** 
+
+Find the information you need efficiently:
+
+Step 1: **Review project documentation** in the audit repo. [Join the audit](https://code4rena.com/audits/2025-10-layerzero-starknet-endpoint) for access.
+Step 2: Use 🤖 Docs Wolf, C4's documentation bot assistant. Open a private thread, tag `@Docs Wolf`, and ask your question. The bot will make its best attempt to answer based on the codebase and documentation, and link you to relevant resources.
+
+Please note: 
+- Docs Wolf will be available within 24-48 hours of launch. We'll post a note once it's live.
+- The LayerZero team is **not available** for questions, so the Q&A option has been disabled for this competition.
+
+Good hunting!
+
+
+[10/25/2025 07:47] cloudellie
+GM @🐺Wardens - Docs Wolf is now available for this audit! See instructions in the previous post. Good hunting!
+
+{Reactions}
+❤️ (14) 
+
+[11/07/2025 20:02] C4
+**🚨 AUDIT ALERT**
+
+@🐺Wardens The **LayerZero: Starknet Endpoint** audit is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: The sponsor team and judge will review the findings over the next couple of weeks. Progress through the judging, awarding, and reporting phases can be tracked via [the audit page](https://code4rena.com/audits/2025-10-layerzero-starknet-endpoint).
+
+{Reactions}
+❤️ (10) 🧸 (2) 
+
+[11/24/2025 17:26] cloudellie
+🤑 🎉  Awards for **LayerZero: Starknet Endpoint**:
+
+$1,828.42 USDC » @JeRRy
+$1,218.95 USDC » @0xFBI
+$812.63 USDC » @0xki
+
+🏁 Findings summary
+--------------------------------------—
+0 High risk findings
+0 Med risk findings
+555 wardens participated
+
+Top QA report: @JeRRy
+
+Awards will be distributed on Ethereum within the next week. Congratulations all!  💸 💸 💸
+
+⚠️ Awardees, be sure to [complete your tax reporting info](https://docs.code4rena.com/awarding/incentive-model-and-awards/awarding-process#tax-information-for-code4rena-contributors-wardens-judges-etc) if you haven't already. This must be completed within 30 days (i.e. before [🔴 insert hammertime for 30 days]) to receive your award distribution for this audit.
+
+{Embed}
+https://docs.code4rena.com/awarding/incentive-model-and-awards/awarding-process
+Awarding process | Code4rena
+
+{Reactions}
+c4ship (4) 
+
+[01/09/2026 01:01] C4
+ℹ️ This channel is pending archive.   As a result, any private threads will be permanently deleted 01/17/2026 00:55. Please make sure to grab anything you might need before then.
+
+
+[01/15/2026 18:00] C4
+ℹ️ Reminder: this channel will be deleted after 24 hours.
+
+
+==============================================================
+Exported 7 message(s)
+==============================================================
